@@ -3,6 +3,7 @@ WPU RENCANA KONTEN
 -Javasript
 *S6
 *Framework Javasript
+-Struktur Data Dasar
 -PHP frameworks
 -Interview
 -Vlogs
