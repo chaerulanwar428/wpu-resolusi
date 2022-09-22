@@ -4,6 +4,7 @@ WPU RENCANA KONTEN
 *S6
 *Framework Javasript
  ^Vue
+ ^React
 -Struktur Data Dasar
 -PHP frameworks
  ^Laravel
